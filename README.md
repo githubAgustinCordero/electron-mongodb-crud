@@ -1,6 +1,6 @@
 ## Electron Mongodb CRUD
 
-aplicación de Electron que utiliza MongoDB como base de datos para realizar operaciones CRUD en tareas. El proyecto utiliza las siguientes tecnologías:
+Aplicación de Electron que utiliza MongoDB como base de datos para realizar operaciones CRUD en tareas. El proyecto utiliza las siguientes tecnologías:
 
 Electron: para crear una aplicación de escritorio
 MongoDB: como base de datos para almacenar las tareas
