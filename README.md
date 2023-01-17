@@ -7,7 +7,7 @@ A desktop app to take notes using Electron.js, and Mongodb as database.
 ### Requeriments
 
 - Nodejs
-- Mongodb (local or remote installation)
+- Mongodb (local or remote installation using mongodb online / atlas free plan)
 
 ### Environment variables
 
